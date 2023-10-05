@@ -24,3 +24,13 @@ sh train.sh
 ```
 sh valid_unseen_tasks.sh
 ```
+
+# Measure PSNR (db) and SSIM scores
+```
+sh evaluate_unseen_tasks.sh
+```
+
+# Display PSNR (db) ans SSIM scores
+```
+sh report_metrics.sh
+```
