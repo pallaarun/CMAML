@@ -20,7 +20,7 @@ conda create --name <env> --file requirements.txt
 sh train.sh
 ```
 
-# Validation command
+# Validation command for unseen artifacts
 ```
-sh valid.sh
+sh valid_unseen.sh
 ```
