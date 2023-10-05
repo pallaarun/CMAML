@@ -22,5 +22,5 @@ sh train.sh
 
 # Validation command for unseen artifacts
 ```
-sh valid_unseen.sh
+sh valid_unseen_tasks.sh
 ```
