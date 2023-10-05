@@ -8,3 +8,9 @@
 ## Packages
 * Pytorch
 * Numpy
+
+Following command installs the entire python packages mentioned in the _requirements.txt_
+
+```
+conda create --name <env> --file requirements.txt
+```
