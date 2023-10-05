@@ -14,3 +14,13 @@ Following command installs the entire python packages mentioned in the _requirem
 ```
 conda create --name <env> --file requirements.txt
 ```
+
+# Train command
+```
+sh train.sh
+```
+
+# Validation command
+```
+sh valid.sh
+```
